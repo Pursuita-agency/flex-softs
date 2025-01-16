@@ -1,0 +1,14 @@
+User-agent: *
+
+allow: /
+
+User-agent:Googlebot-Image
+Allow:/assets/images/
+
+User-agent:Googlebot-mobile
+allow:/
+
+User-agent:mediapartners-Google*
+allow:/
+
+sitemap: https://flexsofts.com/sitemap.xml
